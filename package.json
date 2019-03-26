@@ -1,0 +1,15 @@
+{
+  "name": "zybpod",
+  "version": "1.0.0",
+  "description": "pod quick",
+  "main": "zybpod.rb",
+  "bin":"zybpod.rb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pod"
+  ],
+  "author": "yangwende",
+  "license": "ISC"
+}
